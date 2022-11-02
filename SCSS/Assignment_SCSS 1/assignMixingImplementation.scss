@@ -1,0 +1,13 @@
+@import '_lanMixing';
+
+h1{
+    @include h1_style
+}
+
+#lang_info{
+    @include LangInfo_style
+}
+
+#founder_info{
+    @include FounderInfo_style
+}

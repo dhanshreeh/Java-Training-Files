@@ -1,0 +1,38 @@
+@function result($var)
+{
+    @return $var*7*100;
+}
+
+$b: 5px double blue;
+$f: right;
+
+@if ".dir_icon" {
+    .icon{
+        height: result(500)px;
+        border: $b;
+        float: $f;
+    }
+}
+
+.info{
+    height: result(250)px;
+    border: $b;
+}
+
+
+/*
+@else if ".info" {
+    .info{
+        height: result(250)px;
+        border: $b;
+    }
+}
+*/
+
+$var:35;
+@if $var%2==0{
+    @warn "Even number!" ;
+}
+@else{
+    @warn "Odd Number!" ;
+}

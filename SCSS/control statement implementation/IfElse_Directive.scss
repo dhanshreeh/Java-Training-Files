@@ -1,0 +1,24 @@
+$lang: "Java";
+
+@if $lang=="Java"{
+    #d2{
+        background-color: yellowgreen;
+    }
+}
+@else if $lang == "FET"
+{
+    #d1{
+        background-color: blue;
+    }
+}
+@else if $lang == "Python"
+{
+    #d4{
+        background-color: green;
+    }
+}
+@else{
+    #d3{
+        background-color: red;
+    }
+}

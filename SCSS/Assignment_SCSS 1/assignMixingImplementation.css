@@ -1,0 +1,17 @@
+h1 {
+  background-color: rgb(48, 15, 48);
+  color: white;
+  text-align: center;
+}
+
+#lang_info {
+  background-color: rgb(128, 226, 226);
+  position: absolute;
+  color: rgb(119, 7, 41);
+  height: 600px;
+  width: 600px;
+}
+
+#founder_info {
+  @i;
+}/*# sourceMappingURL=assignMixingImplementation.css.map */

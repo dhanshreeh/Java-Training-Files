@@ -1,0 +1,11 @@
+
+@import '_AllVar';
+@mixin p_style{
+    background-color: lightblue;
+    position: absolute;
+    color: crimson;
+    padding-left: 650px;
+    height: 500px;
+    width: 500px;
+
+}

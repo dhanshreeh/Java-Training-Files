@@ -1,0 +1,19 @@
+.icon {
+  height: 350000 px;
+  border: 5px double blue;
+  float: right;
+}
+
+.info {
+  height: 175000 px;
+  border: 5px double blue;
+}
+
+/*
+@else if ".info" {
+    .info{
+        height: result(250)px;
+        border: $b;
+    }
+}
+*//*# sourceMappingURL=@if_Directive.css.map */

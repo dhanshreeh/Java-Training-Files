@@ -1,0 +1,26 @@
+$bgc: gold;
+$c: blank;
+$h: 100%;
+$w:100%;
+$b: 4px;
+$t:uppercase;
+$fs: 10px;
+$bgc2:rgb(149, 149, 228);
+@mixin my_styling
+{
+    background-color: $bgc;
+    color: $c;
+    height: $h;
+    width: $w;
+    border: $b;
+    text-transform: $t;
+    font-size: $fs;
+}
+div{
+    @include my_styling;
+    background-color: $bgc2;
+}
+h1{
+    @include my_styling;
+    text-align: center;
+}

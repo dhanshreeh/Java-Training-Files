@@ -1,0 +1,30 @@
+
+@import '_LanAllVariables';
+
+@mixin h1_style{
+    
+    background-color: $bgh;
+    color: $ch;
+    text-align: $tah;
+    
+}
+
+@mixin LangInfo_style{
+    background-color: $bg;
+    position: $p;
+    color: $c;
+    height: $hi;
+    width: $wi;
+
+}
+
+@mixin FounderInfo_style{
+    background-color: $bgf;
+    position: $p;
+    color: $c;
+    height: $hf;
+    width: $Wf;
+
+}
+
+

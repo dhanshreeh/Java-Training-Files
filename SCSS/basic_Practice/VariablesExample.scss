@@ -1,0 +1,13 @@
+// Examples of variables:-----
+$bgc: black;
+$b: 5px solid gold;
+$fs:italic;
+$tc : gold;
+
+h1,p{
+    background-color: $bgc;
+    border: $b;
+    font-style: $fs;
+    color: $tc;
+}
+

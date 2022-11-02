@@ -1,0 +1,15 @@
+$h: 100px;
+$w: 100px;
+$c:"purple", "orange", "red", "brown";
+
+@each $color in $c{
+    #div_#{$color}
+    {
+        background-color: #{$color};
+        height: $h;
+        width: $w;
+    }
+}
+
+
+
