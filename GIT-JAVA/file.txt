@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Addedfile.txt
+=======
+
+kay
+>>>>>>> dev

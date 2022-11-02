@@ -1,0 +1,169 @@
+
+Message List
+yes by Dhanshree Ashokrao Hood
+Dhanshree Ashokrao Hood5:03 PM
+yes
+
+Profile picture of Shreya Shirish Gaikwad.touch sample.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:05 PM
+touch sample.txt
+
+vim sample.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:05 PM
+vim sample.txt
+
+git status by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:08 PM
+git status
+
+git add sample.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:08 PM
+git add sample.txt
+
+git status by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:08 PM
+git status
+
+git commit -m "Sample file added" by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:10 PM
+git commit -m "Sample file added"
+
+Profile picture of Shweta Manohar Khairnar.:wq by Shweta Manohar Khairnar
+Shweta Manohar Khairnar5:13 PM
+:wq
+
+Profile picture of Shreya Shirish Gaikwad.git log by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:21 PM
+git log
+
+git add . by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:26 PM
+git add .
+git commit -m "demo and hello file added " by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:26 PM
+git commit -m "demo and hello file added "
+
+git log by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:26 PM
+git log
+
+yes by Dhanshree Ashokrao Hood
+Dhanshree Ashokrao Hood5:32 PM
+yes
+
+Last read
+Profile picture of Shreya Shirish Gaikwad.git branch by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:32 PM
+git branch
+
+git branch dev by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:33 PM
+Edited
+git branch dev
+
+git checkout dev by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:34 PM
+git checkout dev
+
+ls by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:34 PM
+ls
+
+ls  - list of files by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:35 PM
+ls - list of files
+
+touch dev.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:35 PM
+touch dev.txt
+
+vim dev.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:35 PM
+vim dev.txt
+
+git status by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:36 PM
+git status
+
+git add dev.txt by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:36 PM
+git add dev.txt
+
+git commit -m "dev file added on dev branch by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:37 PM
+git commit -m "dev file added on dev branch"
+
+git log by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:37 PM
+git log
+
+After vim dev.txt to edit the file do inser... by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:39 PM
+Edited
+After vim dev.txt to edit the file do insert, and to save do esc:wq
+
+git checkout master by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:41 PM
+git checkout master
+
+ls by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:41 PM
+ls
+
+git merge <branch name> by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:42 PM
+git merge <branch name>
+
+git merge dev by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:42 PM
+git merge dev
+
+git log by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:42 PM
+git log
+
+Profile picture of Shreya Shirish Gaikwad.DAY1 ASSIGNMENT: 1. Understand the structur... by Shreya Shirish Gaikwad
+Shreya Shirish Gaikwad5:57 PM
+DAY1 ASSIGNMENT:
+1. Understand the structure of .git folder
+2. Initialize an empty repository for your project
+3. Adding the file in staging area
+4. Commiting the file
+5. Adding multiple files
+
+padding-top: 100px;
+    padding-left: 20px;
+
+
+[4:10 PM] Shweta Manohar Khairnar
+git clone git@github.com:Shweta-Khair/JAVA-Project-Demo.git
+
+[4:14 PM] Shweta Manohar Khairnar
+git remote add origin <url>
+ like 1
+
+[4:15 PM] Shweta Manohar Khairnar
+git remote -v
+
+[4:16 PM] Shweta Manohar Khairnar
+git push -u origin master
+
+
+[4:22 PM] Shweta Manohar Khairnar
+git clone git@github.com:Shweta-Khair/JAVA-Project-Demo.git
+
+[4:32 PM] Shweta Manohar Khairnar
+git@github.com:Shweta-Khair/JAVA-Project-Demo.git
+
+[4:32 PM] Shweta Manohar Khairnar
+git clone git@github.com:Shweta-Khair/JAVA-Project-Demo.git
+
+[4:39 PM] Shweta Manohar Khairnar
+git remote add origin <url>
+
+[4:42 PM] Shweta Manohar Khairnar
+git remote -v
+
+[4:43 PM] Shweta Manohar Khairnar
+git push -u origin master
+
