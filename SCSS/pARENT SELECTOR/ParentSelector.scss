@@ -1,0 +1,26 @@
+$m:200px;
+$b:4px solid black;
+$a:center;
+.main_header{
+    background-color: yellowgreen;
+    border: $b;
+    text-align: center;
+
+    h1{
+        color: brown;
+        &:hover
+        {
+            background-color: aqua;
+            color: blueviolet;
+        }
+
+}
+}
+
+.main_header h1{
+    background-color: crimson;
+}
+
+.main_footer{
+    background-color: maroon;
+}

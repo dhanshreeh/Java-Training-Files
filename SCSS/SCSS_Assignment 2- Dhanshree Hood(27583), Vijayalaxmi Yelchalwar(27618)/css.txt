@@ -1,0 +1,85 @@
+
+    <style>
+        /*Header portion*/
+        body {
+            margin: 0px;
+        }
+
+        .header {
+            background-color: rgb(19, 163, 163);
+            border: 5px solid;
+        }
+
+        h1 {
+            text-align: center;
+            padding-left: 440px;
+            font-size: 40px;
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-style: italic;
+
+        }
+
+        .header_img {
+            float: left;
+            padding-top: 0px;
+            height: 137px;
+        }
+
+        .login {
+            padding-left: 1000px;
+        }
+
+        /*Middle portion*/
+        .ul{
+             padding-left: 150px;
+             padding-top: 100px;
+        }
+
+        aside {
+            float: right;
+            padding: 10px;
+            width: 200px;
+            height: 480px;
+            background-color: white;
+            position: relative;
+        }
+
+        .middle_section{
+            padding: 0px;
+            margin-top: 0px;
+            column-count: 2;
+            column-gap: 1px;
+            column-width: 50%;
+        }
+
+        .left_section{  
+            margin-top: 0px;          
+            background-size: cover;
+            height: 630px;
+            background-color: rgb(255, 236, 240);
+        }
+
+        .right_section{
+            margin-top: 0px;
+            height: 630px;
+            position: relative;
+            background-color: rgb(181, 241, 213);
+        }
+       
+
+        .footer {
+            border: 5px solid;
+            column-count: 3;
+            background-color: rgb(19, 163, 163);
+            column-gap: 800px;
+            column-width: 11px;
+            bottom: 0px;
+            padding-left: 120px;
+            float: bottom;
+            font-size: 20px;
+            padding-top: 0px;
+            height: fit-content;
+
+        }
+    </style>

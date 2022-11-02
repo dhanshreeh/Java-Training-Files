@@ -1,0 +1,10 @@
+@use  '_Variables' as v;
+@forward '_Variables';
+
+@mixin  div_1{
+    background-color: v.$bg;
+    border: v.$b;
+    color: v.$c;
+    height: $h;
+    width: $w;
+}

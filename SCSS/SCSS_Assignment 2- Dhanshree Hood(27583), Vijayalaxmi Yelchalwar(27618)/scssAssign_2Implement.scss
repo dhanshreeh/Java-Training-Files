@@ -1,0 +1,55 @@
+@import '_Assign_2Mixin';
+
+/*Header portion*/
+body {
+    @include body_style;
+}
+
+.header {
+    @include header_style;
+}
+
+h1 {
+    @include h1_style;
+
+}
+
+.header_img {
+    @include header_img_style
+}
+
+// .login {
+//     @include login_style
+// }
+
+.ul {
+    @include ul_style
+}
+
+aside {
+    @include aside_style
+}
+
+.middle_section {
+    @include middle_section_style
+}
+
+.left_section {
+    @include left_section_style
+}
+
+.right_section {
+    @include right_section_style
+}
+
+.p-right {
+    @include p_right_style;
+}
+
+.footer {
+    @include footer_style;
+}
+
+#login-button {
+    @include login-button;
+}

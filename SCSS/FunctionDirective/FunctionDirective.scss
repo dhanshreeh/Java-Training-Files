@@ -1,0 +1,26 @@
+@function cal($var1, $var2)
+{
+    $ans: $var1 + $var2;
+    @return $ans;
+}
+
+$f: left;
+$b: 3px solid rgb(154, 238, 106);
+$h: cal(200,100)+10px;
+$w: cal(300,95)+10px;
+$bg: orange;
+$c: green;
+$fs: italic; 
+
+.icon{
+    height: $h;
+    width: $w;
+    float: $f;
+    border: $b;
+}
+
+#scssid{
+    background-color: $bg;
+    color: $c;
+    font-style: $fs;
+}

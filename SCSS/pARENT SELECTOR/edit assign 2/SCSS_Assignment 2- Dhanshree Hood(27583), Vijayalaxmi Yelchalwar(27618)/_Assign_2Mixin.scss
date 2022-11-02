@@ -1,0 +1,88 @@
+@import '_scssAssignment';
+
+//header:--
+@mixin body_style {
+    margin: $mb;
+}
+
+@mixin header_style {
+    column-count: 3;
+    column-gap: 15px;
+    column-width: 400px;
+    background-color: $bgh;
+    margin-bottom: -15px;
+}
+
+@mixin h1_style {
+    text-align: $tah1;
+    font-size: $fsh1;
+    color: $c;
+    font-family: $ffh1;
+    font-style: $fsh1;
+}
+
+ @mixin header_img_style {
+    float: $fh;
+    padding-top: $hpt;
+    height: $h;
+}
+
+ @mixin login_style {
+    padding-left: 500px;
+} 
+
+/*Middle portion*/
+@mixin ul_style {
+    padding-left: $mpl;
+    padding-top: $mpt;
+}
+
+@mixin aside_style {
+    float: $af;
+    padding: $ap;
+    width: $aw;
+    height: $ah;
+    background-color: $abc;
+    position: $aptn;
+}
+
+@mixin middle_section_style {   
+    column-count: $mcc;
+    column-gap: $mcg;
+    column-width: $mcw;
+}
+
+@mixin left_section_style {
+
+    background-size: $lbs;
+    height: $lh;
+    background-color: $lbc;
+}
+
+@mixin right_section_style {
+  
+    height: $rh;
+    position: $rp;
+    background-color: $rbc;
+}
+
+@mixin p_right_style {
+    padding: 100px 0px 10px 15px;
+    margin-top: 15px;
+ }
+
+//footer
+@mixin footer_style {
+    border: $fb;
+    column-count: $fcc;
+    background-color: $fbc;
+    column-gap: $fcg;
+    column-width: $fcw;
+    bottom: $fb;
+    padding-left: $fpl;
+    float: $ff;
+    font-size: $fs;
+    padding-top: $fpt;
+    height: $fh;
+
+}

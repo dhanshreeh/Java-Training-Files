@@ -1,0 +1,95 @@
+@import '_scssAssignment';
+
+//header:--
+@mixin body_style {
+    margin: $mb;
+}
+
+@mixin header_style {
+    // border: $hb;
+    column-count: $cc;
+    column-gap: $cg;
+    column-width: $cw;
+    background-color: $bgh;
+    margin-bottom: $mb;
+}
+
+@mixin h1_style {
+    text-align: $tah1;
+    font-size: $fsh1;
+    color: $c;
+    font-family: $ffh1;
+    font-style: $fsh1;
+}
+
+@mixin header_img_style {
+    float: $fh;
+    padding-top: $hpt;
+    height: $h;
+}
+
+// @mixin login_style {
+//     padding-left: $lpl;
+// }
+
+/*Middle portion*/
+@mixin ul_style {
+    padding-left: $mpl;
+    padding-top: $mpt;
+}
+
+@mixin aside_style {
+    float: $af;
+    padding: $ap;
+    width: $aw;
+    height: $ah;
+    background-color: $abc;
+    position: $aptn;
+}
+
+@mixin middle_section_style {
+    column-count: $mcc;
+    column-gap: $mcg;
+    column-width: $mcw;
+}
+
+@mixin left_section_style {
+    background-color: $rbg;
+    background-size: $lbs;
+    height: $lh;
+    background-color: $lbc;
+}
+
+@mixin right_section_style {
+    height: $rh;
+    position: $rp;
+    background-color: $rbc;
+}
+
+@mixin p_right_style {
+    padding: $prp;
+    margin-top: $mt;
+}
+
+//footer
+@mixin footer_style {
+    border: $fb;
+    column-count: $fcc;
+    background-color: $fbc;
+    column-gap: $fcg;
+    column-width: $fcw;
+    bottom: $fb;
+    padding-left: $fpl;
+    float: $ff;
+    font-size: $fs;
+    padding-top: $fpt;
+    height: $fh;
+
+}
+
+@mixin login-button {
+    column-count: $lcc;
+    column-gap: $lcg;
+    column-width: $lcw;
+    float: $lf;
+}
